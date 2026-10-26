@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/hero.svg" alt="Elzam MAMAH, business analyst, process optimization, tech inquisitor. A golden falcon judges a labyrinth of processes." width="100%">
+<img src="assets/hero.svg" alt="Elzam MAMAH (monsieurElzam), business analyst and full-stack developer in Lomé, Togo, tech inquisitor. A golden falcon judges a labyrinth of processes." width="100%">
 
 <a href="https://monsieurelzam.com/en"><img alt="Website" src="https://img.shields.io/badge/Website-monsieurelzam.com-d8b65a?style=for-the-badge&labelColor=14151a&logo=safari&logoColor=d8b65a"></a>
 <a href="https://monsieurelzam.com/en/scripts"><img alt="Scripts" src="https://img.shields.io/badge/Scripts-free_and_open_source-d8b65a?style=for-the-badge&labelColor=14151a&logo=gnubash&logoColor=d8b65a"></a>
@@ -13,11 +13,11 @@
 
 ## The bench
 
-I'm a business analyst and process-optimization expert based in Lomé, Togo. I start from how work is really done: who does what, where it waits, where it gets lost. Then I decide what to simplify, automate or equip.
+I'm Elzam MAMAH, also known as monsieurElzam: a business analyst, full-stack developer and process-optimization expert based in Lomé, Togo. I start from how work is really done: who does what, where it waits, where it gets lost. Then I decide what to simplify, automate or equip, and I build it: web and mobile apps, APIs, integrations and automation.
 
 **Tech inquisitor: I judge processes.**
 
-I'm the entity behind Asura Consulting and GénEz Agency. I also contribute to open-source projects and technical reviews, some of them under confidentiality.
+I'm the entity behind [Asura Consulting](https://asuracons.site) (IT consulting and digital engineering) and [GénEz Agency](https://genez.monsieurelzam.com) (creative and media agency). I also contribute to open-source projects and technical reviews, some of them under confidentiality.
 
 ## The three trials
 
@@ -84,9 +84,11 @@ Photography and video, open-source contributions, technology watch.
 
 ## Approach the bench
 
-Available for business analysis, process optimization and IT audit assignments.
+Available for business analysis, software development, process optimization and IT audit assignments.
 
 - Website: [monsieurelzam.com](https://monsieurelzam.com/en)
+- Asura Consulting: [asuracons.site](https://asuracons.site)
+- GénEz Agency: [genez.monsieurelzam.com](https://genez.monsieurelzam.com)
 - Email: [ceo@monsieurelzam.com](mailto:ceo@monsieurelzam.com)
 - LinkedIn: [in/monsieurelzam](https://www.linkedin.com/in/monsieurelzam)
 - Instagram: [@monsieurelzam](https://www.instagram.com/monsieurelzam/)

@@ -20,7 +20,7 @@
 <text x="64" y="78" font-family="Consolas, 'SFMono-Regular', Menlo, monospace" font-size="13" fill="#d8b65a" letter-spacing="4">CASE FILE No. 001 · THE TECH INQUISITION</text>
 <text x="62" y="156" font-family="Georgia, 'Times New Roman', serif" font-size="66" font-weight="700" fill="#f4eee0" letter-spacing="1">Elzam MAMAH</text>
 <rect x="66" y="172" width="96" height="3" fill="#d8b65a"/>
-<text x="64" y="208" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#e7c871" letter-spacing="3.4">BUSINESS ANALYST · PROCESS OPTIMIZATION</text>
+<text x="64" y="208" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#e7c871" letter-spacing="3.4">BUSINESS ANALYST · FULL-STACK DEVELOPER</text>
 <text x="64" y="258" font-family="Consolas, 'SFMono-Regular', Menlo, monospace" font-size="22" fill="#f4eee0" opacity="1">&gt; I judge processes.<animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0;0.05;0.29;0.34;1" dur="12s" repeatCount="indefinite"/></text>
 <text x="64" y="258" font-family="Consolas, 'SFMono-Regular', Menlo, monospace" font-size="22" fill="#f4eee0" opacity="0">&gt; I map the waiting.<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.33;0.38;0.62;0.67;1" dur="12s" repeatCount="indefinite"/></text>
 <text x="64" y="258" font-family="Consolas, 'SFMono-Regular', Menlo, monospace" font-size="22" fill="#f4eee0" opacity="0">&gt; I automate the rest.<animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.66;0.71;0.95;1" dur="12s" repeatCount="indefinite"/></text>
