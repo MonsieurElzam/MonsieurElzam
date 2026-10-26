@@ -19,7 +19,7 @@ I'm the entity behind Asura Consulting and GénEz Agency. I also contribute to o
 
 ## What I do
 
-| | |
+| Focus | In practice |
 | --- | --- |
 | **Map** | processes as they are really carried out, with working and waiting times |
 | **Spot** | bottlenecks, double data entry and needless hand-offs |
